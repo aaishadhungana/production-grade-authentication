@@ -84,7 +84,6 @@ auth-system/
 ├── docker-compose.yml               # API + MongoDB stack
 ├── docker-compose.dev.yml           # Dev overrides (nodemon + volume mount)
 ├── .env.example                     # Environment variable template
-└── .eslintrc.js                     # ESLint config
 ```
 
 ---
